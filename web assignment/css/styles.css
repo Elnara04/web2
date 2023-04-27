@@ -1,0 +1,59 @@
+
+.mainicon{
+    width: 50px;
+}
+.main-section-text {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.main-section-features {
+    text-align: center;
+    width: 100%;
+    margin-top: 2em;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.main-section-features img {
+    width: 100%;
+}
+
+.section-info {
+    background-color: #f1dcff;
+    height: 300px;
+    padding-top: 50px;
+    margin-top: 100px;
+}
+
+.section-info h2 {
+    text-align: center;
+}
+
+.section-info-div {
+    justify-content: space-around;
+    display: flex;
+}
+
+.section-info img {
+    border-radius: 100%;
+}
+
+.section-info-text {
+    width: 800px;
+}
+
+
+#id1 {
+    width: 350px;
+    height: 300px;
+}
+#id2{
+    height: 300px;
+}
+#Alien {
+    height: 300px;
+}
